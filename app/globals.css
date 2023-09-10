@@ -1,0 +1,46 @@
+*{
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+}
+.alertBox{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-top:20px;
+}
+.alert{
+    width:60px;
+    height:30px;
+    border:2px solid rgb(141, 182, 141);
+}
+.data{
+    
+    margin:auto;
+    margin-top:10px;
+    height:200px;
+    width:420px;
+    border-radius: 5px;
+    border:2px solid rgb(141, 182, 141);
+
+}
+.box{
+    width:400px;
+    height:50px;
+    margin: auto;
+    border:2px solid rgb(141, 182, 141);
+    margin-top:10px;
+}
+.Closebutton{
+    width:5vw;
+    height:5vh;
+    margin:30px 7px;
+}
+.Clearbutton{
+    margin:30 5px;
+    width:6vw;
+    height:5vh;
+}
+.PlantTags{
+    margin-top:50px;
+}
